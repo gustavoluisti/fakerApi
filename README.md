@@ -6,9 +6,9 @@ npm install -g json-server
 
 git clone https://github.com/gustavoluisti/fakerApi.git
 
-<h2>Start JSON Server</h2>
+<h2>Start JSON Server e definição de porta</h2>
 
-json-server --watch db.json
+json-server --watch  employees.js --port=5000
 
 { <br />
   "lsProponentes" : [ {<br />
