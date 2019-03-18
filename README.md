@@ -8,7 +8,7 @@ git clone https://github.com/gustavoluisti/fakerApi.git
 
 <h2>Start JSON Server e definição de porta</h2>
 
-json-server --watch  employees.js --port=5000 --host=10.207.58.148 --version=5.0.0
+json-server --watch  employees.js --port=5000 --host=10.10.10.10 --version=5.0.0
 
 <h2>Modelo Json</h2>
 
